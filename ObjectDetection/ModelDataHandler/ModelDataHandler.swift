@@ -36,7 +36,7 @@ typealias FileInfo = (name: String, extension: String)
 
 /// Information about the MobileNet SSD model.
 enum Yolov5 {
-    static let modelInfo: FileInfo = (name: "yolov5s-fp16", extension: "tflite")
+    static let modelInfo: FileInfo = (name: "best-fp16", extension: "tflite")
     static let labelsInfo: FileInfo = (name: "classes", extension: "txt")
 }
 

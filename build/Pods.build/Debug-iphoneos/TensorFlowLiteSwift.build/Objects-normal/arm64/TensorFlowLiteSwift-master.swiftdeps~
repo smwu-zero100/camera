@@ -1,0 +1,19 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "7971b9560b499283e58dde8ef8ce4d043c51111c1cf6bd012f599bce20f9329a"
+build_start_time: [1674740917, 306288003]
+build_end_time: [1674740917, 365559101]
+inputs:
+  ? "/Users/sugmyeongpc/Desktop/ios /Development/yolov5-ios-tensorflow-lite/Pods/TensorFlowLiteSwift/tensorflow/lite/experimental/swift/Sources/Delegate.swift"
+  : !private [1674740817, 765326261]
+  ? "/Users/sugmyeongpc/Desktop/ios /Development/yolov5-ios-tensorflow-lite/Pods/TensorFlowLiteSwift/tensorflow/lite/experimental/swift/Sources/Interpreter.swift"
+  : !private [1674740817, 765705108]
+  ? "/Users/sugmyeongpc/Desktop/ios /Development/yolov5-ios-tensorflow-lite/Pods/TensorFlowLiteSwift/tensorflow/lite/experimental/swift/Sources/InterpreterError.swift"
+  : !private [1674740817, 765465021]
+  ? "/Users/sugmyeongpc/Desktop/ios /Development/yolov5-ios-tensorflow-lite/Pods/TensorFlowLiteSwift/tensorflow/lite/experimental/swift/Sources/Model.swift"
+  : !private [1674740817, 764869213]
+  ? "/Users/sugmyeongpc/Desktop/ios /Development/yolov5-ios-tensorflow-lite/Pods/TensorFlowLiteSwift/tensorflow/lite/experimental/swift/Sources/QuantizationParameters.swift"
+  : !private [1674740817, 764740228]
+  ? "/Users/sugmyeongpc/Desktop/ios /Development/yolov5-ios-tensorflow-lite/Pods/TensorFlowLiteSwift/tensorflow/lite/experimental/swift/Sources/Tensor.swift"
+  : !private [1674740817, 765014171]
+  ? "/Users/sugmyeongpc/Desktop/ios /Development/yolov5-ios-tensorflow-lite/Pods/TensorFlowLiteSwift/tensorflow/lite/experimental/swift/Sources/TensorFlowLite.swift"
+  : !private [1674740817, 765173435]

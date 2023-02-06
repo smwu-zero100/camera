@@ -1,0 +1,10 @@
+Target dependency graph (4 targets)
+TensorFlowLiteC in Pods, no dependencies
+TensorFlowLiteSwift in Pods, depends on:
+TensorFlowLiteC in Pods (explicit)
+Pods-ObjectDetection in Pods, depends on:
+TensorFlowLiteC in Pods (explicit)
+TensorFlowLiteSwift in Pods (explicit)
+ObjectDetection in ObjectDetection, depends on:
+Pods-ObjectDetection in Pods (implicit dependency via file 'Pods_ObjectDetection.framework' in build phase 'Link Binary')
+TensorFlowLiteSwift in Pods (implicit dependency via options '-framework TensorFlowLite' in build setting 'OTHER_LDFLAGS')

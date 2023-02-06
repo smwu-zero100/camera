@@ -1,0 +1,14 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/sugmyeongpc/Desktop/ios /Development/yolov5-ios-tensorflow-lite/build/Debug-iphoneos/TensorFlowLiteSwift/TensorFlowLite.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/sugmyeongpc/Desktop/ios /Development/yolov5-ios-tensorflow-lite/build/Pods.build/Debug-iphoneos/TensorFlowLiteSwift.build/unextended-module.modulemap",
+    }]
+  }]
+}
